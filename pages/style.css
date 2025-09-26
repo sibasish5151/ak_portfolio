@@ -3699,6 +3699,12 @@
   line-height: var(--line-height-body);
 }
  
+.Headings {
+  font-size: 2em;
+  font-family: Merriweather;
+  font-weight: 700;
+}
+ 
 .Content {
   font-size: 16px;
   font-family: Inter;
@@ -3712,12 +3718,6 @@
   font-size: 1rem;
   font-family: Roboto;
   font-weight: 400;
-}
- 
-.Headings {
-  font-size: 2em;
-  font-family: Merriweather;
-  font-weight: 700;
 }
  
 @media(max-width: 991px) {

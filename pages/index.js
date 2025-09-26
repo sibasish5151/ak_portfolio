@@ -212,18 +212,18 @@ body {
               <div className="hero-text">
                 <div className="hero-badge">
                   <svg
-                    xmlns="http://www.w3.org/2000/svg"
                     width="24"
+                    xmlns="http://www.w3.org/2000/svg"
                     height="24"
                     viewBox="0 0 24 24"
                   >
                     <path
+                      d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676a.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5"
                       fill="none"
                       stroke="currentColor"
+                      stroke-width="2"
                       stroke-linecap="round"
                       stroke-linejoin="round"
-                      stroke-width="2"
-                      d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676a.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5"
                     ></path>
                   </svg>
                   <span>Empower Odisha</span>
@@ -274,8 +274,8 @@ body {
               <div className="hero-image">
                 <div className="image-wrapper">
                   <img
-                    src="/whatsapp%20image%202025-09-26%20at%2011.38.03-1500w.jpeg"
                     alt="Professional leader speaking confidently"
+                    src="/whatsapp%20image%202025-09-26%20at%2011.38.03-1500w.jpeg"
                     loading="eager"
                   />
                   <div className="image-accent"></div>
@@ -285,18 +285,18 @@ body {
           </div>
           <div className="hero-scroll-indicator">
             <svg
-              xmlns="http://www.w3.org/2000/svg"
               width="24"
+              xmlns="http://www.w3.org/2000/svg"
               height="24"
               viewBox="0 0 24 24"
             >
               <path
+                d="M5 12h14m-7-7l7 7l-7 7"
                 fill="none"
                 stroke="currentColor"
+                stroke-width="2"
                 stroke-linecap="round"
                 stroke-linejoin="round"
-                stroke-width="2"
-                d="M5 12h14m-7-7l7 7l-7 7"
               ></path>
             </svg>
           </div>
@@ -332,20 +332,20 @@ body {
                   <div className="leadership-item">
                     <div className="leadership-icon">
                       <svg
-                        xmlns="http://www.w3.org/2000/svg"
                         width="24"
+                        xmlns="http://www.w3.org/2000/svg"
                         height="24"
                         viewBox="0 0 24 24"
                       >
                         <g
                           fill="none"
                           stroke="currentColor"
+                          stroke-width="2"
                           stroke-linecap="round"
                           stroke-linejoin="round"
-                          stroke-width="2"
                         >
                           <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2M16 3.128a4 4 0 0 1 0 7.744M22 21v-2a4 4 0 0 0-3-3.87"></path>
-                          <circle cx="9" cy="7" r="4"></circle>
+                          <circle r="4" cx="9" cy="7"></circle>
                         </g>
                       </svg>
                     </div>
@@ -366,18 +366,18 @@ body {
                   <div className="leadership-item">
                     <div className="leadership-icon">
                       <svg
-                        xmlns="http://www.w3.org/2000/svg"
                         width="24"
+                        xmlns="http://www.w3.org/2000/svg"
                         height="24"
                         viewBox="0 0 24 24"
                       >
                         <path
+                          d="M12 20h.01M2 8.82a15 15 0 0 1 20 0M5 12.859a10 10 0 0 1 14 0m-10.5 3.57a5 5 0 0 1 7 0"
                           fill="none"
                           stroke="currentColor"
+                          stroke-width="2"
                           stroke-linecap="round"
                           stroke-linejoin="round"
-                          stroke-width="2"
-                          d="M12 20h.01M2 8.82a15 15 0 0 1 20 0M5 12.859a10 10 0 0 1 14 0m-10.5 3.57a5 5 0 0 1 7 0"
                         ></path>
                       </svg>
                     </div>
@@ -399,18 +399,18 @@ body {
                   <div className="leadership-item">
                     <div className="leadership-icon">
                       <svg
-                        xmlns="http://www.w3.org/2000/svg"
                         width="24"
+                        xmlns="http://www.w3.org/2000/svg"
                         height="24"
                         viewBox="0 0 24 24"
                       >
                         <path
+                          d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676a.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5"
                           fill="none"
                           stroke="currentColor"
+                          stroke-width="2"
                           stroke-linecap="round"
                           stroke-linejoin="round"
-                          stroke-width="2"
-                          d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676a.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5"
                         ></path>
                       </svg>
                     </div>
@@ -443,8 +443,8 @@ body {
               <div className="home-about-image about-image">
                 <div className="image-stack">
                   <img
-                    src="/1000741344-800h.jpg"
                     alt="Mr. Akash Kumar Pani"
+                    src="/1000741344-800h.jpg"
                     loading="lazy"
                     className="home-image11"
                   />
@@ -482,21 +482,21 @@ body {
               </p>
             </div>
             <div className="initiatives-grid">
-              <div className="initiative-card healthcare">
+              <div className="healthcare initiative-card">
                 <div className="card-icon1">
                   <svg
-                    xmlns="http://www.w3.org/2000/svg"
                     width="24"
+                    xmlns="http://www.w3.org/2000/svg"
                     height="24"
                     viewBox="0 0 24 24"
                   >
                     <path
+                      d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676a.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5"
                       fill="none"
                       stroke="currentColor"
+                      stroke-width="2"
                       stroke-linecap="round"
                       stroke-linejoin="round"
-                      stroke-width="2"
-                      d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676a.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5"
                     ></path>
                   </svg>
                 </div>
@@ -525,26 +525,26 @@ body {
                   </div>
                 </div>
                 <img
-                  src="/whatsapp%20image%202025-09-26%20at%2011.47.50-1200h.jpeg"
                   alt="Healthcare workers assisting in community outreach"
+                  src="/whatsapp%20image%202025-09-26%20at%2011.47.50-1200h.jpeg"
                   loading="lazy"
                 />
               </div>
               <div className="initiative-card digital">
                 <div className="card-icon1">
                   <svg
-                    xmlns="http://www.w3.org/2000/svg"
                     width="24"
+                    xmlns="http://www.w3.org/2000/svg"
                     height="24"
                     viewBox="0 0 24 24"
                   >
                     <path
+                      d="M12 20h.01M2 8.82a15 15 0 0 1 20 0M5 12.859a10 10 0 0 1 14 0m-10.5 3.57a5 5 0 0 1 7 0"
                       fill="none"
                       stroke="currentColor"
+                      stroke-width="2"
                       stroke-linecap="round"
                       stroke-linejoin="round"
-                      stroke-width="2"
-                      d="M12 20h.01M2 8.82a15 15 0 0 1 20 0M5 12.859a10 10 0 0 1 14 0m-10.5 3.57a5 5 0 0 1 7 0"
                     ></path>
                   </svg>
                 </div>
@@ -573,26 +573,26 @@ body {
                   </div>
                 </div>
                 <img
-                  src="/1001065231-1200h.jpg"
                   alt="Digital connectivity and technology"
+                  src="/1001065231-1200h.jpg"
                   loading="lazy"
                 />
               </div>
-              <div className="initiative-card education">
+              <div className="education initiative-card">
                 <div className="card-icon1">
                   <svg
-                    xmlns="http://www.w3.org/2000/svg"
                     width="24"
+                    xmlns="http://www.w3.org/2000/svg"
                     height="24"
                     viewBox="0 0 24 24"
                   >
                     <path
+                      d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20"
                       fill="none"
                       stroke="currentColor"
+                      stroke-width="2"
                       stroke-linecap="round"
                       stroke-linejoin="round"
-                      stroke-width="2"
-                      d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20"
                     ></path>
                   </svg>
                 </div>
@@ -619,26 +619,26 @@ body {
                   </div>
                 </div>
                 <img
-                  src="/1001041731-1200h.jpg"
                   alt="Students studying in educational environment"
+                  src="/1001041731-1200h.jpg"
                   loading="lazy"
                 />
               </div>
-              <div className="initiative-card disaster">
+              <div className="disaster initiative-card">
                 <div className="card-icon1">
                   <svg
-                    xmlns="http://www.w3.org/2000/svg"
                     width="24"
+                    xmlns="http://www.w3.org/2000/svg"
                     height="24"
                     viewBox="0 0 24 24"
                   >
                     <path
+                      d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"
                       fill="none"
                       stroke="currentColor"
+                      stroke-width="2"
                       stroke-linecap="round"
                       stroke-linejoin="round"
-                      stroke-width="2"
-                      d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"
                     ></path>
                   </svg>
                 </div>
@@ -665,8 +665,8 @@ body {
                   </div>
                 </div>
                 <img
-                  src="https://images.pexels.com/photos/7527770/pexels-photo-7527770.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940"
                   alt="Emergency response services"
+                  src="https://images.pexels.com/photos/7527770/pexels-photo-7527770.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940"
                   loading="lazy"
                 />
               </div>
@@ -690,10 +690,10 @@ body {
               </p>
             </div>
             <div className="gallery-grid1">
-              <div className="gallery-item1 featured">
+              <div className="featured gallery-item1">
                 <img
-                  src="https://images.pexels.com/photos/7579831/pexels-photo-7579831.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940"
                   alt="Healthcare consultation in progress"
+                  src="https://images.pexels.com/photos/7579831/pexels-photo-7579831.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940"
                   loading="lazy"
                 />
                 <div className="gallery-overlay1">
@@ -716,8 +716,8 @@ body {
               </div>
               <div className="gallery-item1">
                 <img
-                  src="https://images.pexels.com/photos/5387260/pexels-photo-5387260.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940"
                   alt="Digital literacy training session"
+                  src="https://images.pexels.com/photos/5387260/pexels-photo-5387260.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940"
                   loading="lazy"
                 />
                 <div className="gallery-overlay1">
@@ -736,8 +736,8 @@ body {
               </div>
               <div className="gallery-item1">
                 <img
-                  src="https://images.pexels.com/photos/8199602/pexels-photo-8199602.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940"
                   alt="Students studying together"
+                  src="https://images.pexels.com/photos/8199602/pexels-photo-8199602.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940"
                   loading="lazy"
                 />
                 <div className="gallery-overlay1">
@@ -756,8 +756,8 @@ body {
               </div>
               <div className="gallery-item1">
                 <img
-                  src="https://images.pexels.com/photos/6129507/pexels-photo-6129507.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940"
                   alt="Healthcare team providing services"
+                  src="https://images.pexels.com/photos/6129507/pexels-photo-6129507.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940"
                   loading="lazy"
                 />
                 <div className="gallery-overlay1">
@@ -776,8 +776,8 @@ body {
               </div>
               <div className="gallery-item1">
                 <img
-                  src="https://images.pexels.com/photos/7683620/pexels-photo-7683620.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940"
                   alt="Students engaged in learning outdoors"
+                  src="https://images.pexels.com/photos/7683620/pexels-photo-7683620.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940"
                   loading="lazy"
                 />
                 <div className="gallery-overlay1">
@@ -789,8 +789,8 @@ body {
               </div>
               <div className="gallery-item1">
                 <img
-                  src="https://images.pexels.com/photos/4269203/pexels-photo-4269203.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940"
                   alt="Healthcare reception services"
+                  src="https://images.pexels.com/photos/4269203/pexels-photo-4269203.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940"
                   loading="lazy"
                 />
                 <div className="gallery-overlay1">
@@ -925,20 +925,20 @@ body {
                   <div className="involvement-item">
                     <div className="item-icon">
                       <svg
-                        xmlns="http://www.w3.org/2000/svg"
                         width="24"
+                        xmlns="http://www.w3.org/2000/svg"
                         height="24"
                         viewBox="0 0 24 24"
                       >
                         <g
                           fill="none"
                           stroke="currentColor"
+                          stroke-width="2"
                           stroke-linecap="round"
                           stroke-linejoin="round"
-                          stroke-width="2"
                         >
                           <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2M16 3.128a4 4 0 0 1 0 7.744M22 21v-2a4 4 0 0 0-3-3.87"></path>
-                          <circle cx="9" cy="7" r="4"></circle>
+                          <circle r="4" cx="9" cy="7"></circle>
                         </g>
                       </svg>
                     </div>
@@ -963,18 +963,18 @@ body {
                   <div className="involvement-item">
                     <div className="item-icon">
                       <svg
-                        xmlns="http://www.w3.org/2000/svg"
                         width="24"
+                        xmlns="http://www.w3.org/2000/svg"
                         height="24"
                         viewBox="0 0 24 24"
                       >
                         <path
+                          d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676a.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5"
                           fill="none"
                           stroke="currentColor"
+                          stroke-width="2"
                           stroke-linecap="round"
                           stroke-linejoin="round"
-                          stroke-width="2"
-                          d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676a.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5"
                         ></path>
                       </svg>
                     </div>
@@ -997,18 +997,18 @@ body {
                   <div className="involvement-item">
                     <div className="item-icon">
                       <svg
-                        xmlns="http://www.w3.org/2000/svg"
                         width="24"
+                        xmlns="http://www.w3.org/2000/svg"
                         height="24"
                         viewBox="0 0 24 24"
                       >
                         <path
+                          d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"
                           fill="none"
                           stroke="currentColor"
+                          stroke-width="2"
                           stroke-linecap="round"
                           stroke-linejoin="round"
-                          stroke-width="2"
-                          d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"
                         ></path>
                       </svg>
                     </div>
@@ -1054,7 +1054,7 @@ body {
                     <button className="btn btn-primary btn-lg">
                       Contact Our Team
                     </button>
-                    <button className="btn btn-secondary">
+                    <button className="btn-secondary btn">
                       Download Impact Report
                     </button>
                     <button className="btn btn-outline">

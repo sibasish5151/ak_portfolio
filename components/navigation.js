@@ -201,16 +201,16 @@ to {transform: translateX(0);}}
                 >
                   <div className="navigation-logo-icon">
                     <svg
+                      fill="none"
                       width="40"
+                      xmlns="http://www.w3.org/2000/svg"
                       height="40"
                       viewBox="0 0 40 40"
-                      fill="none"
-                      xmlns="http://www.w3.org/2000/svg"
                     >
                       <circle
+                        r="18"
                         cx="20"
                         cy="20"
-                        r="18"
                         fill="var(--color-primary)"
                         stroke="var(--color-surface)"
                         stroke-width="2"
@@ -223,9 +223,9 @@ to {transform: translateX(0);}}
                         stroke-linejoin="round"
                       ></path>
                       <circle
+                        r="2"
                         cx="20"
                         cy="28"
-                        r="2"
                         fill="var(--color-on-primary)"
                       ></circle>
                     </svg>
@@ -251,18 +251,18 @@ to {transform: translateX(0);}}
                     className="navigation-close"
                   >
                     <svg
-                      xmlns="http://www.w3.org/2000/svg"
                       width="24"
+                      xmlns="http://www.w3.org/2000/svg"
                       height="24"
                       viewBox="0 0 24 24"
                     >
                       <path
+                        d="M18 6L6 18M6 6l12 12"
                         fill="none"
                         stroke="currentColor"
+                        stroke-width="2"
                         stroke-linecap="round"
                         stroke-linejoin="round"
-                        stroke-width="2"
-                        d="M18 6L6 18M6 6l12 12"
                       ></path>
                     </svg>
                   </button>
@@ -276,29 +276,6 @@ to {transform: translateX(0);}}
                     </a>
                   </li>
                   <li className="navigation-item navigation-dropdown">
-                    <button
-                      aria-expanded="false"
-                      aria-haspopup="true"
-                      className="navigation-link navigation-dropdown-toggle"
-                    >
-                      <span>Our Work</span>
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        width="24"
-                        height="24"
-                        viewBox="0 0 24 24"
-                        className="navigation-navigation-dropdown-icon"
-                      >
-                        <path
-                          fill="none"
-                          stroke="currentColor"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
-                          stroke-width="2"
-                          d="m6 9l6 6l6-6"
-                        ></path>
-                      </svg>
-                    </button>
                     <ul className="navigation-dropdown-menu">
                       <li>
                         <a href="#healthcare">
@@ -362,38 +339,12 @@ to {transform: translateX(0);}}
                       </li>
                     </ul>
                   </li>
-                  <li className="navigation-item">
-                    <a href="#support-volunteer">
-                      <div className="navigation-link">
-                        <span>
-                          {' '}
-                          Support &amp; Volunteer
-                          <span
-                            dangerouslySetInnerHTML={{
-                              __html: ' ',
-                            }}
-                          />
-                        </span>
-                      </div>
-                    </a>
-                  </li>
-                  <li className="navigation-item">
-                    <a href="#impact">
-                      <div className="navigation-link">
-                        <span>Our Impact</span>
-                      </div>
-                    </a>
-                  </li>
-                  <li className="navigation-item">
-                    <a href="#contact">
-                      <div className="navigation-link">
-                        <span>Contact</span>
-                      </div>
-                    </a>
-                  </li>
+                  <li className="navigation-item"></li>
+                  <li className="navigation-item"></li>
+                  <li className="navigation-item"></li>
                 </ul>
                 <div className="navigation-cta">
-                  <button className="navigation-donate-btn btn btn-primary">
+                  <button className="btn navigation-donate-btn btn-primary">
                     {' '}
                     Donate Now
                     <span
@@ -412,18 +363,18 @@ to {transform: translateX(0);}}
               className="navigation-toggle"
             >
               <svg
-                xmlns="http://www.w3.org/2000/svg"
                 width="24"
+                xmlns="http://www.w3.org/2000/svg"
                 height="24"
                 viewBox="0 0 24 24"
               >
                 <path
+                  d="M4 5h16M4 12h16M4 19h16"
                   fill="none"
                   stroke="currentColor"
+                  stroke-width="2"
                   stroke-linecap="round"
                   stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M4 5h16M4 12h16M4 19h16"
                 ></path>
               </svg>
             </button>
@@ -452,12 +403,6 @@ to {transform: translateX(0);}}
           }
           .navigation-container7 {
             display: contents;
-          }
-          .navigation-navigation-dropdown-icon {
-            width: 16px;
-            height: 16px;
-            transition: transform var(--animation-duration-fast)
-              var(--animation-curve-primary);
           }
         `}
       </style>
